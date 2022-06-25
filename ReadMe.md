@@ -1,0 +1,1 @@
+complete Nuxt Js project
