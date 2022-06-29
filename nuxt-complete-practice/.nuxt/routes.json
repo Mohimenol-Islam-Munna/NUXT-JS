@@ -1,8 +1,16 @@
 [
   {
-    "name": "",
-    "path": "",
-    "component": "/home/munna/Desktop/Munna/NUXT_JS/nuxt-complete-practice/node_modules/@nuxt/vue-app/template/pages/index.vue",
-    "_name": "_3cb3dee6"
+    "name": "about",
+    "path": "/about",
+    "component": "/home/munna/Desktop/Munna/NUXT_JS/nuxt-complete-practice/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_67896ef0"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/munna/Desktop/Munna/NUXT_JS/nuxt-complete-practice/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_f17d6c96"
   }
 ]
