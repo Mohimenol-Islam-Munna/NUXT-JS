@@ -2,15 +2,15 @@
   {
     "name": "about",
     "path": "/about",
-    "component": "/home/munna/Desktop/Munna/NUXT_JS/nuxt-complete-practice/Manual_Installation/pages/about.vue",
+    "component": "/home/munna/Desktop/Munna/NUXT_JS/nuxt-complete-practice/manual-installation/pages/about.vue",
     "chunkName": "pages/about",
-    "_name": "_b8d2a818"
+    "_name": "_f196227c"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "/home/munna/Desktop/Munna/NUXT_JS/nuxt-complete-practice/Manual_Installation/pages/index.vue",
+    "component": "/home/munna/Desktop/Munna/NUXT_JS/nuxt-complete-practice/manual-installation/pages/index.vue",
     "chunkName": "pages/index",
-    "_name": "_7962f28e"
+    "_name": "_b2266cf2"
   }
 ]
