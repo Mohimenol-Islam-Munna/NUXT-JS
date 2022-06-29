@@ -1,12 +1,16 @@
 {
-  "private": true,
+  "name": "nuxt-complete-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "build": "nuxt build",
-    "dev": "nuxt dev",
-    "generate": "nuxt generate",
-    "preview": "nuxt preview"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nuxt"
   },
-  "devDependencies": {
-    "nuxt": "3.0.0-rc.4"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nuxt": "^2.15.8"
   }
 }
