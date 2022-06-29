@@ -1,0 +1,16 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/home/munna/Desktop/Munna/NUXT_JS/nuxt-complete-practice/Manual_Installation/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_b8d2a818"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/munna/Desktop/Munna/NUXT_JS/nuxt-complete-practice/Manual_Installation/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7962f28e"
+  }
+]
